@@ -2,10 +2,13 @@
 
 [landing page](https://almi-hemsida-johanna.netlify.app/) designed using Adobe XD, Illustrator and Photoshop, and created using [Bootstrap 5.1](https://getbootstrap.com/).
 
+
 ## Table of contents
 * [Assignment requirements](#assignment-requirements)
 * [Tools](#tools)
 * [Brief](#brief)
+
+
 
 ## Assignment requirements
 
@@ -16,22 +19,26 @@
 - use html and css
 
 
-##### Page must include:
+### Page must include:
 - at least 3 graphic elements
 - at least 3 icons
 - at least 1 edited image of a person
 - added photos
 
-## Tools
+### Timeline
+- 2 weeks
 
+
+
+## Tools
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe XD / Figma
 
-### Timeline
-- 2 weeks
-- 
+
+
 ## Brief
+
 
 ### Client
 Almi Företagspartner AB
