@@ -95,7 +95,15 @@ Startup companies that have been active for less than three years.
 
 <img src="https://github.com/jo-oo/Almi-hemsida/blob/main/assets/PrintScreen.png" width=100%>
 
+
 - Hifi wireframe
 
-![Hifi wireframe](https://github.com/jo-oo/almi2/blob/main/assets/Web%201920%20%E2%80%93%202.png)
-![Hifi wireframe](https://github.com/jo-oo/almi2/blob/main/assets/iPhone%2012%2C%2012%20Pro%20%E2%80%93%201.png)
+    - Desktop
+    
+![Hifi wireframe](https://github.com/jo-oo/Almi-hemsida/blob/main/assets/Web%201920%20%E2%80%93%202.png)
+
+- Hifi wireframe
+
+    - Mobile
+
+![Hifi wireframe](https://github.com/jo-oo/Almi-hemsida/blob/main/assets/iPhone%2012%2C%2012%20Pro%20%E2%80%93%201.png)
