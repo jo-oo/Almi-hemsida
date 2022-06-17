@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="Lager_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 80 450" style="enable-background:new 0 0 80 450;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#E8348B;}
+	.st2{fill:#334C9B;}
+	.st3{fill:#F1B0D0;}
+	.st4{fill:#FFCD38;}
+</style>
+<rect y="0" class="st0" width="80" height="450"/>
+<g>
+	<g>
+		<line class="st1" x1="40" y1="250" x2="40" y2="450"/>
+		<rect y="250" class="st2" width="80" height="200"/>
+	</g>
+	<g>
+		<line class="st1" x1="40" y1="95" x2="40" y2="250"/>
+		<rect y="95" class="st3" width="80" height="155"/>
+	</g>
+	<g>
+		<line class="st1" x1="40" y1="-1" x2="40" y2="95"/>
+		<rect class="st4" width="80" height="96"/>
+	</g>
+</g>
+</svg>
